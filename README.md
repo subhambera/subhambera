@@ -1,4 +1,4 @@
-# Hi there, I'm Subham Bera 👋
+# Hi there, I'm Subham 👋
 
 **Software QA Analyst | Automation Enthusiast**
 

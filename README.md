@@ -29,13 +29,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-- [Saucedemo Web Automation with Selenium & Java](https://github.com/subhambera/SaucedemoWebAutomation-Selenium-Java)  
-  *Automating web flows for robust UI testing.*
-
----
-
 ### 📬 Connect with Me
 
 Find all my social links here: [linktr.ee/subhambera](https://linktr.ee/subhambera)

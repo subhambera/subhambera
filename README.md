@@ -17,6 +17,8 @@
 ### 🛠️ Top Skills & Technologies
 
 - **Languages:** Java, Python, node.js
+- **API:** Postman
+- **Database:** SSMS, PostGreSQL, pgAdmin
 - **Testing Tools:** Selenium, Test Cafe
 - **Specialties:** Web Automation, End-to-End Testing
 
